@@ -1,0 +1,93 @@
+#body {
+  background-color: rgb(0, 157, 255);
+}
+#gora {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 206px;
+}
+#form {
+  width: 200px;
+  height: 25px;
+}
+#button {
+  width: 100px;
+  height: 30px;
+}
+#div1 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 600px;
+  right: 1100px;
+}
+#div2 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 440px;
+  right: 950px;
+}
+#div3 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  
+  top: 280px;
+  right: 770px;
+}
+#div4 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 500px;
+  right: 600px;
+}
+#div5 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 440px;
+  right: 400px;
+}
+#div6 {
+  background-color: red;
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 250px;
+  right: 315px;
+}
+#chel {
+  width: 100px;
+  height: 150px;
+}
+#name {
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+#flag {
+  width: 110px;
+  height: 150px;
+}
+#mestoflaga {
+  background-color: rgb(0, 157, 255);
+  width: 70px;
+  height: 5px;
+  position: absolute;
+  top: 100px;
+  right: 315px;
+}
+#vin {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
